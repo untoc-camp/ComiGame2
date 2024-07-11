@@ -1,0 +1,1852 @@
+fileFormatVersion: 2
+guid: 1a254ef02f4a0a344b5d6187fcee96fe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gauge-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8480161c43b36842a025e3b802e80da
+      internalID: -1408597147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79b87936efa4754db869e46e6d29eaf
+      internalID: 1576943351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3175361dd0ac94a8aa71f1e0659368
+      internalID: -560411843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22eeaf3bcb8fee64abd78e63fdca5c4d
+      internalID: 469286075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf07457e595a50e4cbacc8dc6eea4771
+      internalID: 1056948995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8970c20fb63744e4492aec70056558ee
+      internalID: -1463297897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8d0675dfb4afa4892dc409bf60082d
+      internalID: -744826673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f326d9a962712488f92b98fb79ef19
+      internalID: 1346425126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baf7b24c09706f4e97dc8b18b645691
+      internalID: 783152936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ec420257a926940821803b5d411e28
+      internalID: -1998865251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b3629a0a1282e4593cc7e9767c7364
+      internalID: 14816401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bce3753e8960c544b8a07e3c0c06f60
+      internalID: 922173745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7d34e7565734d47a35f483ecc8f98b
+      internalID: -1368395885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07f5ab9627d0ea419bca697dce2942b
+      internalID: -1958480195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284dab7a919eefa498a5613c9c0e05bd
+      internalID: -2088653281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dc7080ff3190a4ab997904b5d7a96e
+      internalID: -349140030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87eb7680c80a92449af7916a752bed28
+      internalID: 1533863326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ce70bc596887b4cac2435724b42992
+      internalID: 389487963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb62ccfb9d97fd04585a9c43f66f86a0
+      internalID: -1079900015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6835cc0fdd02814c9c6a86e0224ecea
+      internalID: -722125771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e032201baa279374f8ea5edefa63dab5
+      internalID: -490572376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561edf55b94a122498e8f0fe17deffed
+      internalID: 1938724814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff91bb3cc7669fc4e9ff667733a424a1
+      internalID: 2079797898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fba6ec6c0501b04f86b97af14441f3b
+      internalID: -119281702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bad1c0df6776d74cbf42f9fbec67207
+      internalID: 1225433165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8a6a4802deb2b41837afec8a728027
+      internalID: -497754715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1678d435b9e7694fb08710abcf115c5
+      internalID: 841091907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9e67c09cc52b849bbb1a3df9bf4415
+      internalID: -112642597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc18307ee937c634dbbde96af0a39103
+      internalID: 1112234929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c136dc4caa4c44744971ee81a2ed2e70
+      internalID: -845085960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d9fc70af112c04b9d1e1049116e9b3
+      internalID: 1054997287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0744deaf13fce4aa96f963242a9961
+      internalID: -1013775171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbf24f1f4f1c834aacb8ac5c1f5678c
+      internalID: -1784362188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f760fd4145bfe8740882a557460e879a
+      internalID: -973319717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c2a7c13a8093f4ca9308ce0e034892
+      internalID: -776773550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cf1635146c5a640a0dd1c1858fd84f
+      internalID: -372666048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 3462
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29b8844edf68a149a73cc26f938f9dd
+      internalID: -2013185218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c9548e70cce374289a136a7dd97207
+      internalID: -1465772513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877587651daf0704293c5da287561ddf
+      internalID: 1446646787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213d0e2470ea96f4fb7503d1168d05d6
+      internalID: 894244831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 3846
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dc16fbe3f83f84e9c5892f1eafe10d
+      internalID: 1101357856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 3942
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b12c856eb5c3a440a7a16eac45b1f73
+      internalID: 946922770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 4038
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de9eb8de42b4324fad115054fafcf38
+      internalID: 959171369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80576777aaee34d48b6503727aa45313
+      internalID: -64863651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381fe7e894d36ad4faafd6978b6763fd
+      internalID: -1260489763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 4326
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b5f5822878d884e9aa7eb00b9bd21d
+      internalID: -254859925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 4422
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c066c8ac62969994ca9ef3ee67caf9d0
+      internalID: 1584900144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 4518
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e230d2a2d7a3f4a4dbb98bbcddb1d7f6
+      internalID: 1768918839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db992aa679e7bf5478c4ee9966dd3184
+      internalID: 426775323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 4710
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaaa7fbcf66bdf499ad92d545945866
+      internalID: 1840886792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 4806
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276b7f997433f4f458ac435967bc9e40
+      internalID: 1641710154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 4902
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d4c39245f482745b86331a688be49a
+      internalID: 1591112142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 4998
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba91b5c90cb22e4bb854eac4a1b31b5
+      internalID: -38202602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 5094
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4770b1c5924e0414e91dc8cd89a645ff
+      internalID: -1273183213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 5190
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0295f9c588859047930f4db1f1bbfcc
+      internalID: 1112345824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 5286
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8409d27acdb3284d8501d58cf062e75
+      internalID: 2848484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 5382
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8e9a8d99e6cfc4581d950e36bddb78
+      internalID: 52205944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 5478
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6066512f630ed44a65f65b2f121044
+      internalID: -425851613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 5574
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29434f4abe98caa40bdd2fbb50b66f11
+      internalID: -1496946660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 5670
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf8c22e6f6e0e044954cba69f3dd6d4
+      internalID: -834960466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 5766
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ad856110f3164468fee22bd3d35252
+      internalID: 941520451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 5862
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bd8676ce1e3274fb600426718d36ef
+      internalID: -493129648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 5958
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c800ce0b0de368b43b1ded02e2b3cf4a
+      internalID: -1612588147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 6054
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1803f58ee4cda0469e445ec3a12b6e3
+      internalID: 1751358705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 6150
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11543c5a26829aa4abb2ffefc09ce0df
+      internalID: 1630735865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 6246
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b919cae9538f7a45bd14648496eef7f
+      internalID: 1240569122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 6342
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109a1590f2ddb384a99c8b50dfa4bd53
+      internalID: 1066391005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 6438
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3aabdb1f6597574e909332a9c16eaac
+      internalID: 1265664169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 6534
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6269fee93db845243821e3da90ac1067
+      internalID: -26424997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 6630
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0739def7132d3f948945c52c19dfca46
+      internalID: -897799040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 6726
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94b18fb69becb647ad8bd78db27e07c
+      internalID: -1656598612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 6822
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e6b7238c707414b8729347c343302e
+      internalID: 27198109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 6918
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0879950deb8d5b408287d1bf334308d
+      internalID: -160051359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8c4a2a1836fc34c85b96456dd4428d
+      internalID: 78580848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 7110
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d72084b3b88cb44f8bcfa2fcf5fc17d
+      internalID: 621600316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 7206
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431c9cc77e75c6141b531426e33674c4
+      internalID: -927919520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 7302
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d25a625427fcee43888be770998ab99
+      internalID: 235728279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 7398
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f55b7a59db78b49bee8d0f8c8a1c63
+      internalID: -1097835284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauge-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 7494
+        y: 6
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5162299110580d84697fbf5ff69f388c
+      internalID: 410747233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gauge-Sheet_0: -1408597147
+      gauge-Sheet_1: 1576943351
+      gauge-Sheet_10: 14816401
+      gauge-Sheet_11: 922173745
+      gauge-Sheet_12: -1368395885
+      gauge-Sheet_13: -1958480195
+      gauge-Sheet_14: -2088653281
+      gauge-Sheet_15: -349140030
+      gauge-Sheet_16: 1533863326
+      gauge-Sheet_17: 389487963
+      gauge-Sheet_18: -1079900015
+      gauge-Sheet_19: -722125771
+      gauge-Sheet_2: -560411843
+      gauge-Sheet_20: -490572376
+      gauge-Sheet_21: 1938724814
+      gauge-Sheet_22: 2079797898
+      gauge-Sheet_23: -119281702
+      gauge-Sheet_24: 1225433165
+      gauge-Sheet_25: -497754715
+      gauge-Sheet_26: 841091907
+      gauge-Sheet_27: -112642597
+      gauge-Sheet_28: 1112234929
+      gauge-Sheet_29: -845085960
+      gauge-Sheet_3: 469286075
+      gauge-Sheet_30: 1054997287
+      gauge-Sheet_31: -1013775171
+      gauge-Sheet_32: -1784362188
+      gauge-Sheet_33: -973319717
+      gauge-Sheet_34: -776773550
+      gauge-Sheet_35: -372666048
+      gauge-Sheet_36: -2013185218
+      gauge-Sheet_37: -1465772513
+      gauge-Sheet_38: 1446646787
+      gauge-Sheet_39: 894244831
+      gauge-Sheet_4: 1056948995
+      gauge-Sheet_40: 1101357856
+      gauge-Sheet_41: 946922770
+      gauge-Sheet_42: 959171369
+      gauge-Sheet_43: -64863651
+      gauge-Sheet_44: -1260489763
+      gauge-Sheet_45: -254859925
+      gauge-Sheet_46: 1584900144
+      gauge-Sheet_47: 1768918839
+      gauge-Sheet_48: 426775323
+      gauge-Sheet_49: 1840886792
+      gauge-Sheet_5: -1463297897
+      gauge-Sheet_50: 1641710154
+      gauge-Sheet_51: 1591112142
+      gauge-Sheet_52: -38202602
+      gauge-Sheet_53: -1273183213
+      gauge-Sheet_54: 1112345824
+      gauge-Sheet_55: 2848484
+      gauge-Sheet_56: 52205944
+      gauge-Sheet_57: -425851613
+      gauge-Sheet_58: -1496946660
+      gauge-Sheet_59: -834960466
+      gauge-Sheet_6: -744826673
+      gauge-Sheet_60: 941520451
+      gauge-Sheet_61: -493129648
+      gauge-Sheet_62: -1612588147
+      gauge-Sheet_63: 1751358705
+      gauge-Sheet_64: 1630735865
+      gauge-Sheet_65: 1240569122
+      gauge-Sheet_66: 1066391005
+      gauge-Sheet_67: 1265664169
+      gauge-Sheet_68: -26424997
+      gauge-Sheet_69: -897799040
+      gauge-Sheet_7: 1346425126
+      gauge-Sheet_70: -1656598612
+      gauge-Sheet_71: 27198109
+      gauge-Sheet_72: -160051359
+      gauge-Sheet_73: 78580848
+      gauge-Sheet_74: 621600316
+      gauge-Sheet_75: -927919520
+      gauge-Sheet_76: 235728279
+      gauge-Sheet_77: -1097835284
+      gauge-Sheet_78: 410747233
+      gauge-Sheet_8: 783152936
+      gauge-Sheet_9: -1998865251
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
